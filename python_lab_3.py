@@ -1,4 +1,4 @@
-#Python Lab 1
+#Python Lab 3
 #Coder: Hisham D Macaraya
 
 #Write a Python program to print your name 10 times.
