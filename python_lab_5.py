@@ -46,7 +46,8 @@ print()
 
 '''
 Problem 3
-Write a Python program to search and display the largest element in the list entered by the user in problem 1.
+Write a Python program to search and display the largest element 
+in the list entered by the user in problem 1.
 '''
 
 print("Solution 3")
@@ -59,7 +60,8 @@ print()
 
 '''
 Problem 4
-Write a Python program to search and display the smallest element in the list entered by the user in problem 1.
+Write a Python program to search and display the smallest element 
+in the list entered by the user in problem 1.
 '''
 
 print("Solution 4")
@@ -72,7 +74,8 @@ print()
 
 '''
 Problem 5
-Write a Python program to sort an integer list of 5 numbers.(Use problem 1 and apply selection sort)
+Write a Python program to sort an integer list of 5 numbers.
+Use problem 1 and apply selection sort.
 '''
 
 print("Solution 5")
