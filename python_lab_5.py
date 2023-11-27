@@ -1,5 +1,5 @@
 print()
-print("Python Lab 4")
+print("Python Lab 5")
 print("Coder: Hisham D Macaraya")
 print()
 
